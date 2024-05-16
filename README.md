@@ -6,10 +6,10 @@ Purpose:
 HAR: Homework and Assignment Recorder is an application created with the help fo python with the main purpose of helping the students manage their assignments. They are able to list down their assignments aswell as the progress they have made on it while also setting which assingments have the most priority. This would encourage the student to be more productive as their to do works are more organized/
 
 Installation:
--Click the green button with the word code on it and download the HAR.py file/
--Once Installed make sure it is in a folder since a new file would be created within it which would be the databased for the assignments
--install the tkinter package, use the command: pip install tk
--Run the HAR.py file
+- Click the green button with the word code on it and download the HAR.py file/
+- Once Installed make sure it is in a folder since a new file would be created within it which would be the databased for the assignments
+- install the tkinter package, use the command: pip install tk
+- Run the HAR.py file
 
 Dependencies:
 - Python 3.x
@@ -24,8 +24,8 @@ Features and Usage:
 - Click the add assignment button
 
 2. Update Progress
--This part allows you to update the progress of your assingments using percentage
--Enter the assignment ID from the View projects table, Enter the percentage from 1 to 100
+- This part allows you to update the progress of your assingments using percentage
+- Enter the assignment ID from the View projects table, Enter the percentage from 1 to 100
 - Click the update progress button
 
 3. Remove Assingment
